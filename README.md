@@ -1,15 +1,5 @@
 # Introduction to NLP Course Notebooks
 
-Welcome to the **Introduction to NLP** course repository! 
-
-This repository contains Jupyter notebooks designed to help you learn the basics of Natural Language Processing through hands-on exercises.
-
-The notebooks are designed to accompany the Introduction to NLP course which can be found here: 
-
-https://learn.365datascience.com/courses/nlp
-
-https://www.udemy.com/course/intro-to-natural-language-processing-in-python-for-ai/
-
 ## Installed Packages
 
 These are the installed packages and versions used for this course. All were installed in a conda environment (see below for how I created this). 
